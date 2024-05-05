@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif" alt="">
+![banner](https://github.com/CreativeCoderBashaar/CreativeCoderBashaar/assets/162967130/3714dd11-74be-447c-b044-37857710665a)
 
 <h1 align="center">Hi 👋, I'm Bashaar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
