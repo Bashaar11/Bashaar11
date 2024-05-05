@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="Banner" width="1000" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif)">
+
 <h1 align="center">Hi 👋, I'm Bashaar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
