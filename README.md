@@ -1,10 +1,10 @@
-<img align="center" alt="Banner" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif">
+![output-onlinegiftools](https://github.com/Bashaar11/Bashaar11/assets/162967130/90f2c96e-0205-45ca-8295-3a15c522d881)<img align="center" alt="Banner" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm Bashaar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![output-onlinegiftools](https://github.com/Bashaar11/Bashaar11/assets/162967130/8d42c1d3-9c24-4248-b617-292a56cf320e)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creativecoderbashaar&label=Profile%20views&color=0e75b6&style=flat" alt="creativecoderbashaar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bashaar11&label=Profile%20views&color=0e75b6&style=flat" alt="bashaar11" /> </p>
 
 - 🔭 I’m currently working on **3D Airpods Pro Landing Page**
 
@@ -31,8 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creativecoderbashaar&show_icons=true&locale=en&layout=compact" alt="creativecoderbashaar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashaar11&show_icons=true&locale=en&layout=compact" alt="bashaar11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creativecoderbashaar&show_icons=true&locale=en" alt="creativecoderbashaar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashaar11&show_icons=true&locale=en" alt="bashaar11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creativecoderbashaar&" alt="creativecoderbashaar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashaar11&" alt="bashaar11" /></p>
