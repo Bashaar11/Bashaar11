@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bashaar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
-<img alt="gif" align="left" width="400" src="[htps://github.com/Bashaar11/Bashaar11/assets/162967130/8d42c1d3-9c24-4248-b617-292a56cf320et](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img alt="gif" align="left" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashaar11&label=Profile%20views&color=0e75b6&style=flat" alt="bashaar11" /> </p>
 
