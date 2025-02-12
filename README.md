@@ -1,10 +1,10 @@
-![output-onlinegiftools](https://github.com/Bashaar11/Bashaar11/assets/162967130/90f2c96e-0205-45ca-8295-3a15c522d881)<img align="center" alt="Banner" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif">
+<img align="center" alt="Banner" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm Bashaar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
 <img alt="gif" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bashaar11&label=Profile%20views&color=0e75b6&style=flat" alt="bashaar11" /> </p>
+<p align="left"> ![output-onlinegiftools](https://github.com/Bashaar11/Bashaar11/assets/162967130/90f2c96e-0205-45ca-8295-3a15c522d881) </p>
 
 - 🔭 I’m currently working on **3D Airpods Pro Landing Page**
 
