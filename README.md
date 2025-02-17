@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
 <img alt="gif" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> ![output-onlinegiftools](https://github.com/Bashaar11/Bashaar11/assets/162967130/90f2c96e-0205-45ca-8295-3a15c522d881) </p>
 
 - 🔭 I’m currently working on **3D Airpods Pro Landing Page**
 
